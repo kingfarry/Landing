@@ -1,0 +1,80 @@
+.topbar{
+    display:flex;
+    justify-content: space-evenly;
+    margin: 20px 0 0 0;
+}
+
+.title{
+    color:#304438;
+    font-weight: 700;
+}
+
+.ul-lists{
+    display:flex;
+    list-style: none;
+}
+
+.ul-lists li{
+    padding:15px;
+    font-weight:700;
+    font-size: 13px;
+    color: lightgrey;
+}
+
+.navbutton{
+    background-color:#304438 ;
+    color:white;
+    height:35px;
+    width:170px;
+    border:none;
+    border-radius:3px;
+    
+}
+
+.banner {
+    background-image: url('office2.jpeg');
+    height:800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:150px 0 0 150px;
+}
+
+.sub-header{
+    margin:50px 0 35px 0;
+    text-align: center;
+}
+
+.icons{
+    height:50px;
+    width:50px;
+    border-radius:50px;
+}
+
+.col-lg-3 h4{
+    font-size:17px;
+    font-weight:700;
+    text-align:center;
+}
+
+.col-lg-3 h6{
+    text-align: center;
+}
+
+.featured{
+    background-color:#304438 ;
+}
+.feat{
+    color: white;
+    text-align: center;
+}
+
+.feat-images{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.feat-images img{
+    height:40px;
+    width: 90px;
+    margin:0px 0px 20px 0;
+}
